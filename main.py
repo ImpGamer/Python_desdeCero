@@ -7,4 +7,4 @@ print(number3)
 
 name = "Papus"
 print(bool(name))
-print(name[0])  
+print(name[0])
